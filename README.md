@@ -3,7 +3,7 @@ Healthcare Management System is our capstone project from the course "Software D
 
 **Team Members:**
 
-Abdullah Bappi (ID: 242-35-151)
-Tanvir Hasan (ID: 242-35-)
-Rayan Anthony Gomes (ID: 242-35-)
+Abdullah Bappi (ID: 242-35-151), 
+Tanvir Hasan (ID: 242-35-), 
+Rayan Anthony Gomes (ID: 242-35-127)
 
