@@ -1,8 +1,18 @@
-#include<stdio.h>
+#include <stdio.h>
+#include <stdlib.h>
 
-#include "include_files/defaultView.h"
-
-int main(){
-
+#include"defaultview.h"
+#include"registration.h"
+int main()
+{
+    printf("Hello world!\n");
     defaultPage();
+    int x;
+   scanf("%d",&x);
+   if(x==1){
+    registerPatient();
+    }
+
+
+    return 0;
 }
